@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @my-temporary-name
 - 👀 I’m interested in happiness
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning alot of things
 - 💞️ I’m looking to collaborate on any basic project
 - 📫 ankityadav123774@gmail.com
 
