@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @my-temporary-name
-- 👀 I’m interested in happiness
-- 🌱 I’m currently learning alot of things
-- 💞️ I’m looking to collaborate on any basic project
+- 👋 Hi, I’m Ankit Yadav
+- 🧑🏻‍💻 Currently, I'm pursuing my M.tech (CSE) at IIT Gandhinagar
+- 🌱 My specialization and research is majorly in Natural Language Processing (NLP)
+- 💞️ I’m looking to collaborate on any good NLP project
 - 📫 ankityadav123774@gmail.com
 
 <!---
